@@ -1,0 +1,17 @@
+{
+    "name": "luoluo/hello",
+    "description": "hello world",
+    "authors": [
+        {
+            "name": "luoluoruoshi",
+            "email": "1047433899@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"Hello\\": "src/"
+    	}
+    }
+}
